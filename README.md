@@ -18,6 +18,13 @@ JSON for creating college badges
       <td>#6A0032</td>
     </tr>
     <tr>
+      <td><img src='http://rawgit.com/Aesthetikx/college_badges/master/badges/northwestern.svg'></img></td>
+      <td>Northwestern University</td>
+      <td>northwestern</td>
+      <td>#FFFFFF</td>
+      <td>#4E015C</td>
+    </tr>
+    <tr>
       <td><img src='http://rawgit.com/Aesthetikx/college_badges/master/badges/umich.svg'></img></td>
       <td>University of Michigan</td>
       <td>umich</td>

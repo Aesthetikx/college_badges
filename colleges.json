@@ -1,4 +1,5 @@
 [
   { "name": "Central Michigan University", "domain": "cmich", "display": "C", "primary": "#FFC82E", "secondary": "#6A0032" },
+  { "name": "Northwestern University", "domain": "northwestern", "display": "N", "primary": "#FFFFFF", "secondary": "#4E015C" },
   { "name": "University of Michigan", "domain": "umich", "display": "M", "primary": "#FFCB05", "secondary": "#00274C" }
 ]
