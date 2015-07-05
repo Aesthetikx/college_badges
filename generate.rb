@@ -36,7 +36,7 @@ File.open("README.md", "w") do |file|
   file.puts "<table>"
   colleges.each do |college|
     file.puts "  <tr>"
-      file.puts "    <td><img src='badges/#{college['domain']}.svg'></img></td>"
+      file.puts "    <td><img src='http://rawgit.com/Aesthetikx/college_badges/master/badges/#{college['domain']}.svg'></img></td>"
       file.puts "    <td>#{college['name']}</td>"
       file.puts "    <td>#{college['domain']}</td>"
       file.puts "    <td>#{college['primary']}</td>"
