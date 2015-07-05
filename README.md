@@ -25,6 +25,13 @@ JSON for creating college badges
       <td>#4E015C</td>
     </tr>
     <tr>
+      <td><img src='http://rawgit.com/Aesthetikx/college_badges/master/badges/princeton.svg'></img></td>
+      <td>Princeton University</td>
+      <td>princeton</td>
+      <td>#231F20</td>
+      <td>#FF8F00</td>
+    </tr>
+    <tr>
       <td><img src='http://rawgit.com/Aesthetikx/college_badges/master/badges/umich.svg'></img></td>
       <td>University of Michigan</td>
       <td>umich</td>
