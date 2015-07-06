@@ -38,5 +38,12 @@ JSON for creating college badges
       <td>#FFCB05</td>
       <td>#00274C</td>
     </tr>
+    <tr>
+      <td><img src='http://rawgit.com/Aesthetikx/college_badges/master/badges/berkeley.svg'></img></td>
+      <td>University of California, Berkeley</td>
+      <td>berkeley</td>
+      <td>#FDB515</td>
+      <td>#003262</td>
+    </tr>
   </tbody>
 </table>
